@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="app_name_2">-Quizz-</string>
+    <string name="nama_pemain">-Nama-</string>
+    <string name="username">Username</string>
+    <string name="submit">Play</string>
+    <string name="alert_message_submit">Apakah benar username anda adalah </string>
+    <string name="contoh_pertanyaan">Pada tahun berapakah Android diakuisisi oleh perusahaan Google ?</string>
+    <string name="contoh_jawaban">2005</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="score">Score anda :</string>
+    <string name="main_lagi_text">Apakah anda yakin ingin mengulang quiz ini ?</string>
+    <string name="jawaban_benar">Jawaban yang Benar : </string>
+    <string name="jawaban_anda">Jawaban Anda : </string>
+</resources>
